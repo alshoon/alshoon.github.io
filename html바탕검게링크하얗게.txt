@@ -1,0 +1,24 @@
+<style>
+  body {
+    background-color: black;
+    color: white; /* 검은 배경에 흰 글씨가 잘 보입니다 */
+  }
+</style>
+<style>
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: white;
+  }
+
+  a:hover {
+    color: #ccc;
+  }
+
+  a:active {
+    color: white;
+  }
+</style>
